@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74e378aa-7776-4595-8c54-838d4ceb07e3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Rjfjm60PPwAQK1fxeyBFYVO99x" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="185" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="325" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Jars/gherkin-2.12.2.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FeatureTest">
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ru.miet.testing.GUI" />
+      <module name="Testing1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.ru.miet.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeatureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.test.ru.miet.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.test.ru.miet.testing" />
+      <option name="MAIN_CLASS_NAME" value="main.test.ru.miet.testing.FeatureTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UITester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.test.ru.miet.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.test.ru.miet.testing" />
+      <option name="MAIN_CLASS_NAME" value="main.test.ru.miet.testing.UITester" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UITester.testNullbutton_sumA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.test.ru.miet.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.test.ru.miet.testing" />
+      <option name="MAIN_CLASS_NAME" value="main.test.ru.miet.testing.UITester" />
+      <option name="METHOD_NAME" value="testNullbutton_sumA" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UITester.test_button_sum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.test.ru.miet.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.test.ru.miet.testing" />
+      <option name="MAIN_CLASS_NAME" value="main.test.ru.miet.testing.UITester" />
+      <option name="METHOD_NAME" value="test_button_sum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GUI" />
+      <item itemvalue="JUnit.UITester.test_button_sum" />
+      <item itemvalue="JUnit.UITester.testNullbutton_sumA" />
+      <item itemvalue="JUnit.UITester" />
+      <item itemvalue="JUnit.FeatureTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FeatureTest" />
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="JUnit.UITester" />
+        <item itemvalue="JUnit.UITester.test_button_sum" />
+        <item itemvalue="JUnit.UITester.testNullbutton_sumA" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74e378aa-7776-4595-8c54-838d4ceb07e3" name="Default Changelist" comment="" />
+      <created>1537356090368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537356090368</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.feature" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Testing1$UITester.ic" NAME="UITester Coverage Results" MODIFIED="1571321435451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.test.ru.miet.testing.*</FILTER>
+    </SUITE>
+  </component>
+</project>
